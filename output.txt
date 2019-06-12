@@ -1,0 +1,1479 @@
+/home/pi/BotAssistant
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 200-947-529
+192.168.1.126 - - [29/Apr/2019 13:55:41] "POST /custom HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 13:55:43] "POST /water HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 14:14:38] "POST /custom HTTP/1.1" 200 -
+
+Scroll pHAT HD: Robot Mouth
+
+Loads mouth.bmp and scrolls it across the screen.
+
+Press Ctrl+C to exit!
+
+
+Traceback (most recent call last):
+  File "./patterns/robot-mouth.py", line 25, in <module>
+    img = Image.open("mouth.bmp")
+  File "/usr/lib/python2.7/dist-packages/PIL/Image.py", line 2312, in open
+    fp = builtins.open(filename, "rb")
+IOError: [Errno 2] No such file or directory: 'mouth.bmp'
+192.168.1.126 - - [29/Apr/2019 14:14:49] "POST /custom HTTP/1.1" 200 -
+
+Scroll pHAT HD: Robot Mouth
+
+Loads mouth.bmp and scrolls it across the screen.
+
+Press Ctrl+C to exit!
+
+
+Traceback (most recent call last):
+  File "./patterns/robot-mouth.py", line 25, in <module>
+    img = Image.open("mouth.bmp")
+  File "/usr/lib/python2.7/dist-packages/PIL/Image.py", line 2312, in open
+    fp = builtins.open(filename, "rb")
+IOError: [Errno 2] No such file or directory: 'mouth.bmp'
+192.168.1.126 - - [29/Apr/2019 14:15:05] "POST /custom HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 14:15:26] "POST /custom HTTP/1.1" 200 -
+water reminder
+psutil.Process(pid=749, name='python') process killed x_x
+water reminder
+psutil.Process(pid=892, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1030, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1167, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1305, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1442, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1581, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1719, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1856, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1994, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2133, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2269, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2407, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2544, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2681, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2819, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2956, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3093, name='python') process killed x_x
+psutil.Process(pid=3230, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3290, name='python') process killed x_x
+psutil.Process(pid=3294, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3296, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3433, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3570, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3720, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3855, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3992, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4128, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4264, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4401, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4537, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4674, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4812, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4948, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5084, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5219, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5356, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5494, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5632, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5767, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5903, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6039, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6176, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6313, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6449, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6584, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6721, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6859, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6997, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7134, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7270, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7407, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7545, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7682, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7820, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7958, name='python') pro192.168.1.126 - - [29/Apr/2019 15:02:21] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:02:23] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:02:31] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:02:38] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:03:37] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:03:39] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:03:52] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:03:56] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:04:14] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:04:15] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:06:36] "POST /clear HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:06:41] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:06:43] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:07:00] "POST /clear HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:07:02] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:07:04] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:07:43] "POST /show HTTP/1.1" 200 -
+Killed
+192.168.1.126 - - [29/Apr/2019 15:07:49] "POST /clear HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:07:50] "POST /show HTTP/1.1" 200 -
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/pi/BotAssistant/api/http.py", line 255, in run
+    cleanup()
+  File "/home/pi/BotAssistant/api/http.py", line 215, in cleanup
+    kill_subthread()
+  File "/home/pi/BotAssistant/api/http.py", line 223, in kill_subthread
+    proc.kill()
+  File "/usr/lib/python2.7/dist-packages/psutil/__init__.py", line 336, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/psutil/__init__.py", line 1281, in kill
+    self._send_signal(signal.SIGKILL)
+  File "/usr/lib/python2.7/dist-packages/psutil/__init__.py", line 1218, in _send_signal
+    raise AccessDenied(self.pid, self._name)
+AccessDenied: psutil.AccessDenied (pid=382, name='wpa_supplicant')
+
+192.168.1.126 - - [29/Apr/2019 15:08:23] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:08:32] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:09:00] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:09:01] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:09:01] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:09:06] "POST /clear HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:09:07] "POST /clear HTTP/1.1" 200 -
+cess killed x_x
+water reminder
+psutil.Process(pid=8093, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8229, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8367, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8503, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8640, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8776, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8913, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9050, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9185, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9321, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9458, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9595, name='python') process killed x_x
+psutil.Process(pid=9732, name='python') process killed x_x
+water reminder
+water reminder
+water reminder
+water reminder
+water reminder
+water reminder
+psutil.Process(pid=225, name='boot.sh') process killed x_x
+psutil.Process(pid=382, name='wpa_supplicant') process killed x_x
+water reminder
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+  File "/usr/lib/python2.7/dist-packages/werkzeug/serving.py", line 673, in inner
+  File "/usr/lib/python2.7/dist-packages/werkzeug/serving.py", line 511, in serve_forever
+  File "/usr/lib/python2.7/SocketServer.py", line 236, in serve_forever
+  File "/usr/lib/python2.7/threading.py", line 585, in set
+  File "/usr/lib/python2.7/threading.py", line 407, in notifyAll
+<type 'exceptions.TypeError'>: 'NoneType' object is not callable
+bye fella
+bye fella
+/home/pi/BotAssistant
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 200-947-529
+192.168.1.126 - - [29/Apr/2019 15:13:00] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:13:00] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:13:15] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:13:18] "POST /clear HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:13:36] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:13:38] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:14:32] "POST /clear HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:14:33] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:16:34] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:16:36] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:16:45] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:16:46] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:16:48] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:16:49] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:18:38] "POST /clear HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:18:43] "POST /show HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 15:18:44] "POST /autoscroll HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 16:36:14] "POST /custom HTTP/1.1" 200 -
+192.168.1.126 - - [29/Apr/2019 16:36:21] "POST /water HTTP/1.1" 200 -
+water reminder
+psutil.Process(pid=12099, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12239, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12377, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12517, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12656, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12832, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12970, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13115, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13260, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13415, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13555, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13694, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13832, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13970, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14109, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14250, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14388, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14527, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14665, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14805, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14943, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15097, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15235, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15372, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15510, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15651, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15790, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15930, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16067, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16205, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16342, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16483, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16621, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16774, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16913, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17052, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17191, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17329, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17468, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17607, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17746, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17885, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18023, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18163, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18301, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18456, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18595, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18734, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18871, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19010, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19149, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19287, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19426, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19565, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19702, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19840, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19979, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20133, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20271, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20411, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20549, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20689, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20828, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20966, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21104, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21242, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21381, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21519, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21657, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21810, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21949, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22088, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22226, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22366, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22504, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22644, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22783, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22922, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23059, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23199, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23338, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23491, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23630, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23769, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23906, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24047, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24186, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24324, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24464, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24603, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24742, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24881, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25019, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25174, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25312, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25450, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25589, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25727, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25865, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26005, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26144, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26283, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26422, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26560, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26699, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26852, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26988, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27127, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27266, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27405, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27543, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27683, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27821, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27960, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28098, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28239, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28379, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28533, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28671, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28810, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28948, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29088, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29226, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29365, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29502, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29750, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29889, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30028, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30212, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30365, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30503, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30643, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30782, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30921, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31060, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31200, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31337, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31585, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31725, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31865, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32004, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32157, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32294, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32432, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32570, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32710, name='python') process killed x_x
+water reminder
+psutil.Process(pid=397, name='python') process killed x_x
+water reminder
+psutil.Process(pid=556, name='python') process killed x_x
+water reminder
+psutil.Process(pid=744, name='python') process killed x_x
+water reminder
+psutil.Process(pid=991, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1128, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1269, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1407, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1562, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1701, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1840, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1978, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2118, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2256, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2395, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2534, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2670, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2808, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2948, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3133, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3286, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3516, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3654, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3791, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3931, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4070, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4208, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4347, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4485, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4623, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4763, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4902, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5055, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5193, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5332, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5470, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5610, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5748, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5888, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6027, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6165, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6348, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6488, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6626, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6780, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6918, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7057, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7196, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7336, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7475, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7614, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7751, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7890, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8028, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8168, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8306, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8459, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8598, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8736, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8875, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9015, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9154, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9293, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9430, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9570, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9707, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9847, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9985, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10138, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10275, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10415, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10553, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10693, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10831, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10971, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11109, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11248, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11386, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11524, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11662, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11815, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11952, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12091, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12230, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12371, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12510, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12651, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12791, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12931, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13070, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13211, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13349, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13505, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13644, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13784, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13922, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14059, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14197, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14336, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14475, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14615, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14752, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14888, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15028, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15181, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15320, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15458, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15596, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15736, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15876, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16015, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16154, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16293, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16432, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16570, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16708, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16862, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17000, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17138, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17276, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17414, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17554, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17692, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17831, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17970, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18108, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18248, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18387, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18541, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18680, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18818, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18956, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19096, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19235, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19373, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19511, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19650, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19788, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19928, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20067, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20221, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20358, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20497, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20635, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20776, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20913, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21051, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21190, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21342, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21479, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21619, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21757, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21910, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22049, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22189, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22327, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22466, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22605, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22776, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22914, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23052, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23189, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23329, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23475, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23630, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23768, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23905, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24045, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24186, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24325, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24469, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24607, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24747, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24886, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25026, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25166, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25320, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25458, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25596, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25734, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25874, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26013, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26151, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26289, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26429, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26566, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26707, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26845, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26999, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27136, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27277, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27416, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27554, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27692, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27830, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27969, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28110, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28247, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28386, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28523, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28676, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28814, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28952, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29091, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29231, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29368, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29509, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29647, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29786, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29924, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30063, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30201, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30356, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30494, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30633, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30770, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30908, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31047, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31186, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31324, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31464, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31603, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31741, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31878, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32033, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32171, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32311, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32451, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32589, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32727, name='python') process killed x_x
+water reminder
+psutil.Process(pid=418, name='python') process killed x_x
+water reminder
+psutil.Process(pid=586, name='python') process killed x_x
+water reminder
+psutil.Process(pid=764, name='python') process killed x_x
+water reminder
+psutil.Process(pid=902, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1041, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1179, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1333, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1472, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1612, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1752, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1892, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2030, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2168, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2306, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2445, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2584, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2724, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2862, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3015, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3200, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3340, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3480, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3621, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3758, name='python') process killed x_x
+water reminder
+psutil.Process(pid=3897, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4036, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4175, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4314, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4454, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4593, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4747, name='python') process killed x_x
+water reminder
+psutil.Process(pid=4886, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5025, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5163, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5302, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5439, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5578, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5717, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5857, name='python') process killed x_x
+water reminder
+psutil.Process(pid=5995, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6135, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6274, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6426, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6565, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6704, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6843, name='python') process killed x_x
+water reminder
+psutil.Process(pid=6981, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7120, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7259, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7398, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7538, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7676, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7816, name='python') process killed x_x
+water reminder
+psutil.Process(pid=7967, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8120, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8259, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8399, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8538, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8677, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8816, name='python') process killed x_x
+water reminder
+psutil.Process(pid=8953, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9092, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9339, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9479, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9619, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9757, name='python') process killed x_x
+water reminder
+psutil.Process(pid=9911, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10050, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10190, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10329, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10469, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10608, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10747, name='python') process killed x_x
+water reminder
+psutil.Process(pid=10884, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11022, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11159, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11299, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11437, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11635, name='python') process killed x_x
+water reminder
+psutil.Process(pid=11866, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12004, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12144, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12283, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12422, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12563, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12709, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12851, name='python') process killed x_x
+water reminder
+psutil.Process(pid=12991, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13132, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13271, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13426, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13564, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13703, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13841, name='python') process killed x_x
+water reminder
+psutil.Process(pid=13981, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14120, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14259, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14397, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14535, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14674, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14814, name='python') process killed x_x
+water reminder
+psutil.Process(pid=14954, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15106, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15243, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15382, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15520, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15657, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15796, name='python') process killed x_x
+water reminder
+psutil.Process(pid=15933, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16071, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16210, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16348, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16486, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16669, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16821, name='python') process killed x_x
+water reminder
+psutil.Process(pid=16959, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17097, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17235, name='python') process killed x_x
+water reminder
+psutil.Process(p192.168.1.125 - - [01/May/2019 14:02:12] "GET / HTTP/1.1" 200 -
+192.168.1.125 - - [01/May/2019 14:02:12] "GET /favicon.ico HTTP/1.1" 404 -
+192.168.1.125 - - [01/May/2019 14:02:26] "POST /custom HTTP/1.1" 200 -
+192.168.1.125 - - [01/May/2019 14:02:35] "POST /water HTTP/1.1" 200 -
+id=17374, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17512, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17651, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17788, name='python') process killed x_x
+water reminder
+psutil.Process(pid=17928, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18066, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18205, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18344, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18497, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18636, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18775, name='python') process killed x_x
+water reminder
+psutil.Process(pid=18913, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19051, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19190, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19329, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19467, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19606, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19744, name='python') process killed x_x
+water reminder
+psutil.Process(pid=19884, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20023, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20177, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20315, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20455, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20591, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20731, name='python') process killed x_x
+water reminder
+psutil.Process(pid=20869, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21007, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21145, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21285, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21421, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21560, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21698, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21851, name='python') process killed x_x
+water reminder
+psutil.Process(pid=21990, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22131, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22267, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22406, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22544, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22684, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22820, name='python') process killed x_x
+water reminder
+psutil.Process(pid=22959, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23097, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23235, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23374, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23528, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23665, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23804, name='python') process killed x_x
+water reminder
+psutil.Process(pid=23943, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24083, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24222, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24360, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24500, name='python') process killed x_x
+psutil.Process(pid=24638, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24641, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24834, name='python') process killed x_x
+water reminder
+psutil.Process(pid=24980, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25141, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25285, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25444, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25599, name='python') process killed x_x
+water reminder
+psutil.Process(pid=25757, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26662, name='python') process killed x_x
+water reminder
+psutil.Process(pid=26820, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27015, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27175, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27319, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27477, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27622, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27780, name='python') process killed x_x
+water reminder
+psutil.Process(pid=27969, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28128, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28274, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28434, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28580, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28739, name='python') process killed x_x
+water reminder
+psutil.Process(pid=28883, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29044, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29190, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29675, name='python') process killed x_x
+water reminder
+psutil.Process(pid=29928, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30087, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30341, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30507, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30760, name='python') process killed x_x
+water reminder
+psutil.Process(pid=30919, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31065, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31316, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31506, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31664, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31811, name='python') process killed x_x
+water reminder
+psutil.Process(pid=31969, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32114, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32273, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32418, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32577, name='python') process killed x_x
+water reminder
+psutil.Process(pid=32722, name='python') process killed x_x
+water reminder
+psutil.Process(pid=437, name='python') process killed x_x
+water reminder
+psutil.Process(pid=614, name='python') process killed x_x
+water reminder
+psutil.Process(pid=800, name='python') process killed x_x
+water reminder
+psutil.Process(pid=944, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1148, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1291, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1449, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1593, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1755, name='python') process killed x_x
+water reminder
+psutil.Process(pid=1900, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2059, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2215, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2373, name='python') process killed x_x
+water reminder
+psutil.Process(pid=2516, name='python') process killed x_x
+water 192.168.1.125 - - [02/May/2019 19:08:17] "GET / HTTP/1.1" 200 -
+192.168.1.125 - - [02/May/2019 19:08:19] "GET /favicon.ico HTTP/1.1" 404 -
+192.168.1.125 - - [02/May/2019 19:08:24] "POST /custom HTTP/1.1" 200 -
+192.168.1.125 - - [02/May/2019 19:08:31] "POST /water HTTP/1.1" 200 -
